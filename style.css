@@ -70,6 +70,11 @@ header nav.menu li {
   .menu.active li {
     margin: 10px 0;
   }
+
+  #calculadora {
+    text-align: center;
+    margin: 20px;
+  }
   
   /* Media query para telas menores */
   @media (max-width: 768px) {
